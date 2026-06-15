@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "adam-dashboard",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6a3d339e-7b01-4eb3-a40c-4768ef3d73f0",
+			"database_name": "adam-cache-databas"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
